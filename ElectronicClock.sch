@@ -208,7 +208,7 @@ F 1 "Crystal" H 1750 2200 50  0000 C CNN
 F 2 "Crystals:Crystal_DS10_d1.0mm_l4.3mm_Horizontal_1EP_style1" H 1750 2350 50  0001 C CNN
 F 3 "" H 1750 2350 50  0000 C CNN
 	1    1750 2350
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L C C0
